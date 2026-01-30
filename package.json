@@ -1,0 +1,10 @@
+{
+  "name": "p2p-orderbook-dex",
+  "version": "1.0.0",
+  "description": "EIP-712 Orderbook Settlement Engine",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.1",
+    "ethers": "^6.10.0",
+    "hardhat": "^2.19.4"
+  }
+}
